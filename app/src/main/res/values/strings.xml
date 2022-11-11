@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Proyecto7S21</string>
+    <string name="copyright">Copyright \u00a9 2022, Joaquin Perez Proyecto Examen Parcial 2</string>
+    <string name="TP2">Información</string>
+    <string name="Matri">Matricula</string>
+    <string name="Nomb">Nombre</string>
+    <string name="Edad">Edad</string>
+    <string name="Sem">Semestre</string>
+    <string name="Prom">Promedio</string>
+    <string name="Edo">Estado</string>
+    <string name="btn1">Agregar</string>
+    <string name="btn2">Modificar</string>
+    <string name="btn3">Eliminar</string>
+    <string name="btnPA1">Aceptar</string>
+    <string name="btnPE1">Cancelar</string>
+</resources>
